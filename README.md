@@ -1,0 +1,2 @@
+# Graduation_Project_Log
+2019年毕业设计日志系统
